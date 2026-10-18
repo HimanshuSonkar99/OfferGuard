@@ -1,0 +1,25 @@
+FICTIONAL DEMONSTRATION LETTER bundled with OfferGuard. Not a real company,
+not a real offer, created only to demonstrate OfferGuard's checks.
+
+Company name: Infosys
+From: hr@infosys-careers.com
+
+Subject: Placement Offer - Software Trainee, 100% Selection
+
+Dear Student,
+
+You have been guaranteed selection for the Software Trainee role. No interview
+is required for this position. Your stipend will be Rs 80,000 per month.
+
+A training fee of Rs 6,000 must be paid before the joining date to process your
+offer, along with a processing fee of Rs 1,500.
+
+On joining you must sign a bond period of 2 years with a penalty of Rs 100,000,
+and a notice period of 6 months applies at all times.
+
+This offer expires today. Limited seats available, so hurry and apply now to
+avoid missing this opportunity.
+
+Regards,
+Talent Acquisition Team
+Infosys

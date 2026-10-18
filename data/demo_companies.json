@@ -1,0 +1,79 @@
+[
+  {
+    "company_name": "Tata Consultancy Services",
+    "official_domain": "tcs.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Infosys",
+    "official_domain": "infosys.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Wipro",
+    "official_domain": "wipro.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "HCLTech",
+    "official_domain": "hcltech.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Cognizant",
+    "official_domain": "cognizant.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Accenture",
+    "official_domain": "accenture.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Microsoft",
+    "official_domain": "microsoft.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Google",
+    "official_domain": "google.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Zoho",
+    "official_domain": "zoho.com",
+    "source": "Publicly documented corporate website. Verify the domain yourself before trusting it.",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Accenture",
+    "official_domain": "accenture.co.in",
+    "source": "Publicly documented regional corporate website (India).",
+    "verified_at": "2026-09-01",
+    "reference_status": "public-reference"
+  },
+  {
+    "company_name": "Zenith Global Technologies",
+    "official_domain": "zenithglobaltechnologies.example",
+    "source": "Fictional demonstration reference created for the OfferGuard demo. Not a real company.",
+    "verified_at": "2026-09-01",
+    "reference_status": "demo-reference"
+  }
+]

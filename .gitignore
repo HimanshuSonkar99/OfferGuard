@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite3
+data/*.db
+uploads/
+.streamlit/secrets.toml
+.pytest_cache/
+.ruff_cache/
+*.pdf.tmp
+.offerguard_prefs.json

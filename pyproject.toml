@@ -1,0 +1,11 @@
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-exclude = [".venv", "__pycache__", ".pytest_cache"]
+
+[tool.ruff.lint]
+# E/F/W: pycodestyle + pyflakes, I: import sorting, UP: modern Python syntax
+select = ["E", "F", "W", "I", "UP"]
+ignore = [
+    "E501", # long lines are mostly single-line HTML f-strings
+]

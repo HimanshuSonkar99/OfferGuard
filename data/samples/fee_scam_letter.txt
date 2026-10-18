@@ -1,0 +1,30 @@
+FICTIONAL DEMONSTRATION LETTER bundled with OfferGuard. Not a real company,
+not a real offer, created only to demonstrate OfferGuard's checks.
+
+Company name: Zenith Global Technologies
+From: hr@zenithglobaltechnologies.example
+
+Subject: Offer of Internship - Data Analyst Intern (Immediate Joining)
+
+Dear Candidate,
+
+Congratulations! You have been selected for the position of Data Analyst Intern
+based on your resume. Your guaranteed selection is confirmed without any
+interview or technical round.
+
+To confirm your seat, a registration fee of Rs 4,500 is required. You must also
+pay a refundable laptop deposit of Rs 9,999 before joining. Payment is required
+immediately and within 24 hours; otherwise your selection will be cancelled.
+
+Send the money to our UPI ID zenith-hr@okbank or by bank transfer to the account
+number given in the portal.
+
+You will sign a bond period of 2 years on joining, with a penalty of Rs 150,000
+if you leave during the bond period. Original certificates must be submitted for
+verification at the time of joining.
+
+Hurry - limited seats, only 3 positions left. Act fast to secure your offer.
+
+Regards,
+HR Department
+Zenith Global Technologies

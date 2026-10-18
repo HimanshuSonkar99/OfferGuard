@@ -1,0 +1,53 @@
+{
+  "dataset_notice": "Every record below is FICTIONAL demonstration data created for the OfferGuard hackathon demo. These companies, domains and incidents do not exist and must never be presented as real cybercrime reports.",
+  "reports": [
+    {
+      "company_name": "Zenith Global Technologies",
+      "sender_domain": "zenithglobaltechnologies.example",
+      "category": "Advance payment or fee demand",
+      "description": "Fictional demo record: offer letter asked for a refundable laptop deposit of Rs 9,999 before joining, with no verifiable office address.",
+      "incident_date": "2026-08-14",
+      "status": "corroborated",
+      "is_demo": true
+    },
+    {
+      "dataset_notice": "fictional",
+      "company_name": "Bright Future Internships",
+      "sender_domain": "brightfutureinterns.example",
+      "category": "Advance payment or fee demand",
+      "description": "FICTIONAL demo report: demanded a 2500 rupee training fee to confirm a 2-month internship certificate.",
+      "incident_date": "2026-08-22",
+      "status": "corroborated"
+    },
+    {
+      "company_name": "NovaSoft Solutions",
+      "domain_note": "fictional demo domain",
+      "sender_domain": "novasoftsolutions.example",
+      "category": "Advance payment or fee demand",
+      "description": "FICTIONAL demonstration report: refundable laptop deposit requested within 24 hours of the offer letter.",
+      "incident_date": "2026-09-04",
+      "status": "under_review"
+    },
+    {
+      "company_name": "CloudPeak Analytics",
+      "sender_domain": "cloudpeakanalytics.example",
+      "description": "FICTIONAL demonstration report: asked for a document verification fee before issuing the internship certificate.",
+      "incident_date": "2026-09-12",
+      "status": "submitted"
+    },
+    {
+      "company_name": "FastHire Consulting",
+      "sender_domain": "fasthireconsulting.example",
+      "description": "FICTIONAL demonstration report: guaranteed selection without an interview after paying a processing fee.",
+      "incident_date": "2026-09-20",
+      "status": "submitted"
+    },
+    {
+      "company_name": "TrustedSteps Technologies",
+      "sender_domain": "trustedstepstechnologies.example",
+      "description": "FICTIONAL demonstration report filed by mistake and later rejected during moderation.",
+      "incident_date": "2026-08-28",
+      "status": "rejected"
+    }
+  ]
+}
