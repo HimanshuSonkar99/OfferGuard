@@ -7,6 +7,8 @@
 
 **AI Verifier for Fake Internship & Job Offers** — _Verify Before You Pay._
 
+![OfferGuard results page showing a High risk score with the verification layers and score breakdown](docs/screenshot.png)
+
 OfferGuard reads an internship or job offer letter, extracts the important details,
 runs three independent verification layers, and returns an **explainable** risk score
 from 0 to 100 with the exact evidence behind every point.
